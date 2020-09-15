@@ -17,6 +17,8 @@ public class MajorityElement {
 	public static int majorityElement(int[] nums) {
 		Arrays.sort(nums);
 		return nums[nums.length/2];
+	}
+}
 	/*
 	 * int[] count = new int[10]; int counst = 1; //System.out.println(nums.length);
 	 * if(nums.length==1) { count[nums[0]]=1; }
@@ -40,6 +42,3 @@ public class MajorityElement {
 	 * 
 	 * return repnum;
 	 */
-	}
-
-}
