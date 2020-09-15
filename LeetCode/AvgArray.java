@@ -1,6 +1,6 @@
 package LeetCode;
 
-public class GetterSetter {
+public class AvgArray {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
